@@ -1,5 +1,5 @@
 body, html {
-    background-color: #fee;
+    background-color: #faf8f8;
     height:100%;
     width:100%;
     padding:0px;
@@ -86,7 +86,7 @@ a:hover {
     position: absolute;
     bottom:0;
     width:100%;
-    background:#fee;
+    background:#faf8f8;
     transition: 2s;
 }
 
