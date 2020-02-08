@@ -40,12 +40,12 @@ a {
 }
 
 a:hover {
-    color: violet;
+    color: rgb(247, 216, 216);
 }
 
 .about-me:hover, .contact:hover, .portfolio:hover {
     letter-spacing: 4px;
-    color:lightcoral;
+    color:rgb(247, 216, 216);
 }
 
 .name-wrapper {
