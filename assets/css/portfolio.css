@@ -1,5 +1,5 @@
 body, html {
-    background-color: #faf8f8;
+    background-color: #fafafa;
     height:100%;
     width:100%;
     padding:0px;
@@ -44,10 +44,13 @@ a:hover {
 }
 
 .about-me:hover, .contact:hover, .portfolio:hover {
-    letter-spacing: 4px;
-    color:rgb(247, 216, 216);
+    letter-spacing: 3px;
+    color:rgb(247, 216, 216)!important;
 }
 
+.portfolio:hover {
+    color: rgb(247, 216, 216)!important;
+}
 .name-wrapper {
     font-size: 7em;
     display: flex;
