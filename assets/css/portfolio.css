@@ -40,16 +40,16 @@ a {
 }
 
 a:hover {
-    color: rgb(247, 216, 216);
+    color: rgb(247, 202, 202);
 }
 
 .about-me:hover, .contact:hover, .portfolio:hover {
-    letter-spacing: 3px;
-    color:rgb(247, 216, 216)!important;
+    letter-spacing: 4px;
+    color:rgb(247, 202, 202)!important;
 }
 
 .portfolio:hover {
-    color: rgb(247, 216, 216)!important;
+    color: rgb(247, 202, 202)!important;
 }
 .name-wrapper {
     font-size: 7em;
